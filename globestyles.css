@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #0099cc;
+  background: #6699ff;
 }
 
 
@@ -27,6 +27,7 @@ h1 {
   overflow: auto;
   padding-left: 20px;
   padding-right: 20px;
+  background-color: 800000;
 }
 
 .navbar a {
