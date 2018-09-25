@@ -25,7 +25,8 @@ h1 {
   width: 100%;
   background-color: #555;
   overflow: auto;
-  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .navbar a {
