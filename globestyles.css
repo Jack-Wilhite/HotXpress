@@ -42,8 +42,7 @@ h1 {
   background-color: #000;
 }
 
-.active {
-  background-color: #4CAF50;
+
 }
 
 @media screen and (max-width: 500px) {
