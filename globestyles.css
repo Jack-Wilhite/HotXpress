@@ -18,19 +18,20 @@ body {
   margin-top: 4%;
 }
 h1 {
-  color: blue;
+  color: white;
   text-align: center;
   font-family: Cartesian;
-  text-weight: bold;
-
+    font-weight: boldest;
+    font-size: 75px;
 }
 .navbar {
-  width: 100%;
+  width: 60%;
   background-color: #555;
   overflow: auto;
   padding-left: 20px;
   padding-right: 20px;
   background-color: #000099;
+  align: center;
 }
 
 .navbar a {
