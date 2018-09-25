@@ -4,6 +4,9 @@ body {
   background: #555;
 }
 
+.logo {
+  heig
+}
 #globe {
   cursor: move;
 }
@@ -45,3 +48,7 @@ h1 {
     float: none;
     display: block;
   }
+.logo {
+  height:20px;
+  width: 20px;
+}
