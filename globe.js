@@ -1,5 +1,5 @@
 
-<link href="globestyles.css" rel="stylesheet">
+
     //
     // Configuration
     //
