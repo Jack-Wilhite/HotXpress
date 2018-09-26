@@ -1,5 +1,5 @@
 
-
+<link href="globestyles.css" rel="stylesheet">
     //
     // Configuration
     //
@@ -221,4 +221,3 @@
       autorotate = d3.timer(rotate)
     })
     //# sourceURL=pen.js
-</script>
