@@ -23,20 +23,19 @@ h1 {
   color: white;
   text-align: center;
   font-family: impact;
-    font-weight: boldest;
-    font-size: 75px;
+  font-weight: boldest;
+  font-size: 75px;
 }
 .navbar {
   width: 56%;
-  background-color: #555;
   overflow: auto;
   padding-left: auto;
   padding-right: auto;
   background-color: #000099;
   margin: auto;
   text-align: center;
-line-height: 40px;
-padding-top: 4px;
+  line-height: 40px;
+  padding-top: 4px;
 
 }
 
