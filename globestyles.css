@@ -4,8 +4,6 @@ html, body {
   background: #6699ff;
 }
 
-
-
 #globe {
   cursor: move;
 }
@@ -18,7 +16,6 @@ html, body {
   margin-top: 4%;
 }
 
-
 h1 {
   color: white;
   text-align: center;
@@ -26,6 +23,7 @@ h1 {
   font-weight: boldest;
   font-size: 75px;
 }
+
 .navbar {
   width: 56%;
   overflow: auto;
@@ -36,7 +34,6 @@ h1 {
   text-align: center;
   line-height: 40px;
   padding-top: 4px;
-
 }
 
 .navbar a {
@@ -50,8 +47,6 @@ h1 {
 .navbar a:hover {
   background-color: #002233;
 }
-
-
 }
 
 @media screen and (max-width: 500px) {
@@ -59,6 +54,25 @@ h1 {
     float: none;
     display: block;
   }
- h1, .logo {
-   display: inline;
- }
+
+  h1, .logo {
+    display: inline;
+  }
+
+  #join {
+    float: right;
+  }
+
+  #join a {
+    cursor: pointer;
+    margin-right: 30px;
+    padding: 8px 18px;
+    border: 1px solid black;
+    position: relative;
+    background-color: white;
+    display: inline-block;
+  }
+
+  #join a:active {
+    top: 5px;
+  }
