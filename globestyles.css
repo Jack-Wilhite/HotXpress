@@ -2,10 +2,15 @@ html, body {
   margin: 0;
   padding: 0;
   background: #6699ff;
+
 }
 
 #globe {
   cursor: move;
+
+}
+#globe:hover {
+
 }
 
 #current {
@@ -60,17 +65,19 @@ h1 {
   }
 
   .login {
-  float: right;
-}
-.login a {
-  cursor: pointer;
-  margin-right: 30px;
-  padding: 8px 18px;
-  border: 1px solid #204156;
-  position: relative;
-  background-color: #87cefa;
-}
-.login a:active {
-top: 5px;
+    display: block;
 
-}
+  }
+
+  .login a {
+    cursor: pointer;
+    margin-right: 30px;
+    padding: 8px 18px;
+    border: 1px solid #204156;
+    position: relative;
+    background-color: #87cefa;
+  }
+
+  .login a:active {
+    top: 5px;
+  }
