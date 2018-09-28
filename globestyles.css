@@ -61,33 +61,10 @@ h1 {
     display: inline;
   }
 
-  .login {
-    display: block;
-  }
 
-  .button {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    float: right;
-  }
+.currentevents {
+margin: auto;
+background-color: gray;
+width: 40%;
 
-  .login a {
-    cursor: pointer;
-    margin-right: 30px;
-    padding: 8px 18px;
-    border: 1px solid #204156;
-    position: relative;
-    background-color: #87cefa;
-  }
-
-  .login a:active {
-    top: 5px;
-  }
+}
