@@ -62,9 +62,9 @@ h1 {
   }
 
 
-.currentevents {
+.events {
 margin: auto;
 background-color: gray;
 width: 40%;
-
+text-align: center;
 }
