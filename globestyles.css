@@ -61,10 +61,9 @@ h1 {
     display: inline;
   }
 
-
-.events {
-margin: auto;
-background-color: gray;
-width: 40%;
-text-align: center;
-}
+  .events {
+    margin: auto;
+    background-color: gray;
+    width: 40%;
+    text-align: center;
+  }
