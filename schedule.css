@@ -2,6 +2,10 @@ h1 {
   text-align: center;
 }
 
+body {
+  background-color: #6699ff;
+}
+
 
 ul {list-style-type: none;}
 body {font-family: Verdana, sans-serif;}
