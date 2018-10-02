@@ -57,7 +57,7 @@ h1 {
     display: block;
   }
 
-
-  h1, .logo {
-    display: inline;
+  h1,
+  .logo {
+    display: inline-block;
   }
