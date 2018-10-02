@@ -24,13 +24,10 @@ h1 {
   font-family: impact;
   font-weight: boldest;
   font-size: 75px;
-  align-self: center;
+  text-align: center;
 }
 
-h1,
-.logo {
-  display: inline-block;
-}
+
 
 .navbar {
   width: 56%;
