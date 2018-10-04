@@ -19,7 +19,7 @@ body {font-family: Verdana, sans-serif;}
 .month {
     padding: 20px 15px;
     width: 100%;
-    background: #1abc9c;
+    background-color: grey;
     text-align: center;
 }
 
