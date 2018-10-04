@@ -92,7 +92,7 @@ body {font-family: Verdana, sans-serif;}
 
 .days li .active {
     padding: 5px;
-    background: #1abc9c;
+    background: #6699ff;
     color: white !important
 }
 
@@ -108,4 +108,12 @@ body {font-family: Verdana, sans-serif;}
 
 @media screen and (max-width: 290px) {
     .weekdays li, .days li {width: 12.2%;}
+}
+
+#rcorners3 {
+    border-radius: 15px 50px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
 }
