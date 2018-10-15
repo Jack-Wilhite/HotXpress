@@ -1,0 +1,59 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #6699ff;
+}
+
+#globe {
+  cursor: move;
+}
+
+#globe:hover {}
+
+#current {
+  position: absolute;
+  color: white;
+  font-family: sans-serif;
+  margin-left: 4%;
+  margin-top: 4%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: impact;
+  font-weight: boldest;
+  font-size: 75px;
+  text-align: center;
+}
+
+.navbar {
+  width: 100%;
+  overflow: auto;
+  padding-left: auto;
+  padding-right: auto;
+  background-color: #000099;
+  margin: auto;
+  text-align: center;
+  line-height: 40px;
+  padding-top: 4px;
+}
+
+.navbar a {
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+}
+
+.navbar a:hover {
+  background-color: #002233;
+}
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
