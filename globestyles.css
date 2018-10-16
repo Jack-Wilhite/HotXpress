@@ -47,10 +47,10 @@ h1 {
   text-align: center;
 }
 
-.navbar a:hover {
+.active, a:hover {
   background-color: #002233;
 }
-}
+
 
 @media screen and (max-width: 500px) {
   .navbar a {
