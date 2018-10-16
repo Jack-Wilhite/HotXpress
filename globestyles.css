@@ -5,7 +5,7 @@ html, body {
 }
 
 #globe {
-  cursor: move;
+  cursor: pointer;
 }
 
 #globe:hover {}

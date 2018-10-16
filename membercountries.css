@@ -4,20 +4,6 @@ html, body {
   background: #6699ff;
 }
 
-#globe {
-  cursor: move;
-}
-
-#globe:hover {}
-
-#current {
-  position: absolute;
-  color: white;
-  font-family: sans-serif;
-  margin-left: 4%;
-  margin-top: 4%;
-}
-
 h1 {
   color: white;
   text-align: center;
@@ -57,6 +43,3 @@ h1 {
     float: none;
     display: block;
   }
-#flag {
-  
-}
