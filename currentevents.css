@@ -50,7 +50,7 @@ h1 {
 .navbar a:hover {
   background-color: #002233;
 }
-}
+
 
 @media screen and (max-width: 500px) {
   .navbar a {
