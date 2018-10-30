@@ -38,12 +38,13 @@
 .navbar a:hover {
   background-color: #002233;
 }
-.navbar a {
-  float: none;
-  display: block;
-}
-@media screen and (max-width: 500px) {
 
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
   .logo {
     height: 65px;
     width: 65px;
