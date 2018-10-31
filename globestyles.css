@@ -82,7 +82,7 @@
   }
 
   body {
-    background: #6699ff;
+    background-image: url("https://goo.gl/images/dezxG3")-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg/220px-Hubble_ultra_deep_field_high_rez_edit1.jpg");
   }
   h1 {
     color: white;
@@ -114,7 +114,7 @@ h1 {
 }
 
 body {
-  background-color: #6699ff;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg/220px-Hubble_ultra_deep_field_high_rez_edit1.jpg");
 }
 
 ul {
@@ -244,7 +244,7 @@ body {
 
 .img-list {
   height: 100px;
-  width: 200px;
+  width: 200px;a
   margin-top: 10px;
   margin-left: 200px;
 }
