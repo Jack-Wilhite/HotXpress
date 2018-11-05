@@ -8,8 +8,7 @@
 #current {
   position: absolute;
   color: white;
-  font-family: sans-serif;
-  margin-left: 4%;
+  font-family: sans-semmm 5555555555555555g
   margin-top: 4%;
 }
 
@@ -81,9 +80,7 @@
 
   }
 
-  body {
-    background-image: url("https://goo.gl/images/dezxG3")-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg/220px-Hubble_ultra_deep_field_high_rez_edit1.jpg");
-  }
+  -image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hubble_ultra_deep_field_high_rez_edit1.jpg/220px-Hubble_ultra_deep_field_high_rez_edit1.jpg")
   h1 {
     color: white;
     text-align: center;

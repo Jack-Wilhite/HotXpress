@@ -27,9 +27,21 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: black;
+  display: inline-block;
+}
+
+p {
+  position: relative;
+
+}
+
+
 .navbar {
   width: 100%;
   overflow: auto;
+
   padding-left: auto;
   padding-right: auto;
   background-color: #000099;
