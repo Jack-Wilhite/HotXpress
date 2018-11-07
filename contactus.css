@@ -27,21 +27,31 @@ h1 {
   text-align: center;
 }
 
-h2 {
+.text {
   color: black;
-  display: inline-block;
+  display: table-cell;
+  float: right;
+  padding-right: 60%;
+  padding-top: 5%;
 }
 
+#teacherimg {
+  height: 240px;
+  width: 225px;
+  border-radius: 6px;
+  border: 10px solid #000099;
+  margin-left: 75px;
+  margin-top: 30px;
+}
 p {
-  position: relative;
-
+color: black;
+font-size: 15px;
 }
 
 
 .navbar {
   width: 100%;
   overflow: auto;
-
   padding-left: auto;
   padding-right: auto;
   background-color: #000099;
