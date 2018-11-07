@@ -39,9 +39,10 @@ h1 {
   height: 240px;
   width: 225px;
   border-radius: 6px;
-  border: 10px solid #000099;
+  border: 5px solid #000099;
   margin-left: 75px;
   margin-top: 30px;
+
 }
 p {
 color: black;
