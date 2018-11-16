@@ -2,6 +2,7 @@
   height: 65px;
   width: 65px;
 }
+
 .navbar {
   width: 100%;
   overflow: auto;
@@ -20,22 +21,19 @@
   text-decoration: none;
   font-size: 20px;
   text-align: center;
-
 }
 
 .navbar a:hover {
   background-color: #002233;
 }
 
-
 @media screen and (max-width: 500px) {
-
   .navbar a {
     float: none;
     display: block;
-
   }
 }
+
 h1 {
   color: white;
   text-align: center;
@@ -53,11 +51,6 @@ body {
 ul {
   list-style-type: none;
 }
-
-
-
-
-
 
 #rcorners3 {
   border-radius: 15px 50px;
