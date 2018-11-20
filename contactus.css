@@ -31,22 +31,28 @@ h1 {
   color: black;
   display: table-cell;
   float: right;
-  padding-right: 60%;
+  padding-right: 50%;
   padding-top: 5%;
+
 }
+
+h2 {
+    font-size: 40px;
+}
+
 
 #teacherimg {
   height: 240px;
   width: 225px;
   border-radius: 6px;
   border: 5px solid #000099;
-  margin-left: 75px;
+  margin-left: 13%;
   margin-top: 30px;
 }
 
 p {
   color: black;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .navbar {
