@@ -33,13 +33,11 @@ h1 {
   float: right;
   padding-right: 50%;
   padding-top: 5%;
-
 }
 
 h2 {
-    font-size: 40px;
+  font-size: 40px;
 }
-
 
 #teacherimg {
   height: 240px;
@@ -49,8 +47,6 @@ h2 {
   margin-left: 13%;
   margin-top: 30px;
 }
-
-
 
 p {
   color: black;
