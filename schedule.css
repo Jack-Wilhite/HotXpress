@@ -42,6 +42,23 @@ h1 {
   font-size: 75px;
   text-align: center;
 }
+button {
+  background-color: #2B873D;
+  border: solid 2px white;
+  border-radius: 6px;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  font-size: 30px;
+  font-family: impact;
+  cursor: pointer;
+  border-radius: 5px;
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+  height: 70px;
+  width: 175px;
+}
 
 body {
   background-color: #6699ff;
