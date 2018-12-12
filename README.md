@@ -1,4 +1,3 @@
- Coding1sitestructure
 Ben Coffer benjamin.coffer@students.jmcss.org
 Jack Wilhite jackson.wilhite@students.jmcss.org
 Tyler Carver tyler.carver@students.jmcss.org
