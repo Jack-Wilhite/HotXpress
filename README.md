@@ -2,7 +2,7 @@
 <p>Jack Wilhite jackson.wilhite@students.jmcss.org</p>
 <p>Tyler Carver tyler.carver@students.jmcss.org</p>
 
-<h2>Greetings!</h2"> Thank you for visiting our website! We created this website for the Madison Academic Magnet High School Model U.N. club. In this club, students are involved in a simulated United Nations where they chose to represent countries from around the world. They take part in diplomatic talks, economic situations, and more.
+<h2>Greetings!</h2> Thank you for visiting our website! We created this website for the Madison Academic Magnet High School Model U.N. club. In this club, students are involved in a simulated United Nations where they chose to represent countries from around the world. They take part in diplomatic talks, economic situations, and more.
 Our website was created so that students have an easier way to access information about this club. This information includes upcoming events in the club as well as current events in the real UN that they can use to base their meetings off of. Our website also provides any students who are interested in joining the club a more convenient way of joining rather than trying to find the students who are already members.
 
 <ul>
